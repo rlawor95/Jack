@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dsutil.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Matching_Cross.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bitmap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="dsutil.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Matching_Cross.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\img\icon1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\icon2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\mainbg.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile16.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Tile15.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\Otile7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\NPC1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\NPC2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\NPC3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\NPC4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\img\NPC5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\Sound\Missile.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="..\Sound\Match.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="..\Sound\CONG.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="..\Sound\END.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
